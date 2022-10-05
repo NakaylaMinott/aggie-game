@@ -1,15 +1,3 @@
-/* Nakayla Minott
- * 09/28/2022
- * COMP167001.202310
- * 
- * This is a program for a game
- * this game has a 10 by 10 board using a two-dimensional array
- * it has a single mode using a random number generator for the computer player
- * and multi player mode
- * when a 4 x's have been placed in a row the game ends and the winner is printed
- * 
- */
-
 import java.util.Scanner;
 
 
